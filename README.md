@@ -16,6 +16,7 @@
               Feel free to go through my dashboard available  :)
 
 <img width="1035" height="537" alt="image" src="https://github.com/user-attachments/assets/0d6abbf6-f70c-4b7d-980d-5e7711439cc8" />
+<img width="664" height="523" alt="image" src="https://github.com/user-attachments/assets/acf1e7e9-0127-484f-9c69-41be82b2b050" />
 
 
         Thank you for your time :) 
