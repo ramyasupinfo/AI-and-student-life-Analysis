@@ -15,8 +15,10 @@
 
               Feel free to go through my dashboard available  :)
 
-<img width="1035" height="537" alt="image" src="https://github.com/user-attachments/assets/0d6abbf6-f70c-4b7d-980d-5e7711439cc8" />
-<img width="664" height="523" alt="image" src="https://github.com/user-attachments/assets/acf1e7e9-0127-484f-9c69-41be82b2b050" />
+<img width="664" height="503" alt="image" src="https://github.com/user-attachments/assets/c5704e56-c466-49f5-b195-3546cc16359f" />
+<img width="1035" height="537" alt="image" src="https://github.com/user-attachments/assets/79a259bf-1906-495a-b223-71320128d27f" />
+<img width="699" height="298" alt="image" src="https://github.com/user-attachments/assets/9f417e4e-54c6-44d7-bb7e-999a27db81d0" />
+<img width="397" height="411" alt="image" src="https://github.com/user-attachments/assets/a0f3ecc9-5322-47e9-bdea-d9aaa7153999" />
 
 
         Thank you for your time :) 
