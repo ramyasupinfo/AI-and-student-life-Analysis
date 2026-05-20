@@ -16,7 +16,7 @@
               Feel free to go through my dashboard available  :)
 
 <img width="664" height="503" alt="image" src="https://github.com/user-attachments/assets/c5704e56-c466-49f5-b195-3546cc16359f" />
-<img width="1035" height="537" alt="image" src="https://github.com/user-attachments/assets/79a259bf-1906-495a-b223-71320128d27f" />
+<img width="1035" height="518" alt="image" src="https://github.com/user-attachments/assets/7016acd0-0f25-4a42-9568-7be575dd346c" />
 <img width="699" height="298" alt="image" src="https://github.com/user-attachments/assets/9f417e4e-54c6-44d7-bb7e-999a27db81d0" />
 <img width="397" height="411" alt="image" src="https://github.com/user-attachments/assets/a0f3ecc9-5322-47e9-bdea-d9aaa7153999" />
 
